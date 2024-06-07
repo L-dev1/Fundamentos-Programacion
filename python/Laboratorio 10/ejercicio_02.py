@@ -4,6 +4,7 @@ opcion=0
 menu_actual = 'Principal'
 while True:
     if menu_actual == "Principal":
+        prin("holi")
         print("\n \t Menu Principal")
         print(f"\n1. Opciones")
         print(f"\n2. Salir")
